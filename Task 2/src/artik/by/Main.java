@@ -17,6 +17,7 @@ public class Main {
 //        new arguments();
 //        new Prog_2_13();
 //        new Prog_2_16();
-        new Prog_3_1();
+//        new Prog_3_1();
+        new Prog_3_4();
     }
 }
